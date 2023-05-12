@@ -11,7 +11,7 @@
 
 - 🏢 I'm a Back-End Developer | PHP & Laravel
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with PHP,Laravel,jQuery,Livewere and Ajax or anything related to web development.
+- 💬 Ask me about my experience with PHP,Laravel,jQuery, Livewere and Ajax or anything related to web development.
 <!-- - English -->
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 55% height=95px>
 
