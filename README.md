@@ -25,7 +25,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=563D7C)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mySQL)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=339933)&nbsp;
-![LiveWere](https://img.shields.io/badge/-LiveWere-05122A?style=flat&logo=LiveWere)&nbsp;
+![LiveWire](https://img.shields.io/badge/-LiveWire-05122A?style=flat&logo=LiveWire)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine%20Learning)&nbsp;
