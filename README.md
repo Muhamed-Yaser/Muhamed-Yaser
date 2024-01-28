@@ -24,6 +24,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=563D7C)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mySQL)
+![Vue.js](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=Vue.js&logoColor=339933)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=339933)&nbsp;
 ![LiveWire](https://img.shields.io/badge/-LiveWire-05122A?style=flat&logo=LiveWire)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
