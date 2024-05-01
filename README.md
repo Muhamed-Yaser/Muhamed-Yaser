@@ -15,7 +15,7 @@
 <!-- - English -->
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
 
-## Connect with Me :
+## Contact with Me :
 
 <a href="https://www.linkedin.com/in/mohamed-yasser-121400234/" target="_blank"><img src="https://img.shields.io/badge/-Muhamed%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100034947980012" target="_blank"><img src="https://img.shields.io/badge/-Muhamed%20Yasser-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
