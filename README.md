@@ -9,7 +9,7 @@
 <br/>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="280">
 
-- 🏢 I'm a Back-End Developer | PHP & Laravel
+- 🏢 I'm a Back-End Developer
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP,Laravel,mySql,Restfull Api and Ajax or anything related to web development.
 <!-- - English -->
