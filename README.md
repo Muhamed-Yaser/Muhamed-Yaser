@@ -1,4 +1,4 @@
-<h1 align="center">Muhamed Yasser</h1>
+<h1 align="center">Muhammad Yasser</h1>
 <h3 align="center">Backend Developer · Java & Spring Boot</h3>
 
 <p align="center">
