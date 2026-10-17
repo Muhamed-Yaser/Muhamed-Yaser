@@ -1,39 +1,75 @@
-<!-- <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"> -->
-<h2 align="center">
-  Welcome to Muhamed Yasser's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<h1 align="center">Muhamed Yasser</h1>
+<h3 align="center">Backend Developer · Java & Spring Boot</h3>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-<br/>
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="280">
+  <a href="https://www.linkedin.com/in/muhammad-yasser-894427439/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muhammad.yaser.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-- 🏢 I'm a Back-End Developer
-- 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with PHP,Laravel,mySql,Restfull Api and Ajax or anything related to web development.
-<!-- - English -->
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 50% height=95px>
+---
 
-## Contact with Me :
+## About
 
-<a href="https://www.linkedin.com/in/mohamed-yasser-121400234/" target="_blank"><img src="https://img.shields.io/badge/-Muhamed%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100034947980012" target="_blank"><img src="https://img.shields.io/badge/-Muhamed%20Yasser-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-[![Whatsapp](https://img.shields.io/badge/-Muhamed%20Yasser-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01008812846)
-### 🛠 &nbsp;Tech Stack
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=563D7C)&nbsp;
-![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mySQL)
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=339933)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=339933)&nbsp;
-![LiveWire](https://img.shields.io/badge/-LiveWire-05122A?style=flat&logo=LiveWire)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine%20Learning)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-05122A?style=flat&logo=php-storm&logoColor=007ACC)&nbsp;
-![English](https://img.shields.io/badge/-English%20-05122A?style=flat&logo=English)&nbsp;
+Most of what makes an app feel good happens where nobody looks. A request arrives, the data is checked, saved, shaped, and sent back in a few milliseconds. That hidden part is what I build.
+
+I'm a Java backend developer, and Spring Boot is where I spend my days. I design REST APIs, model data across MySQL, PostgreSQL, and SQL Server, and keep each layer of the code in its own lane, so the next person can change something without breaking something else.
+
+My road to Java went through PHP and Laravel. For two years I built web applications and APIs for clients, onsite and freelance, including a bilingual marketplace for a veterinary company with a mobile API and an admin dashboard.
+
+I enjoy the challengeable work too, like reviewing an existing codebase and tracking down why something is slow or unsafe. I also use AI tools every day. I know how to ask them for what I need, and I read, test, and own everything I ship.
+
+CS graduate. Based in Egypt.
+
+## Tech Stack
+
+**Java & Spring**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02303A?style=flat)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Testing & API Documentation**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Previous stack**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+## Experience
+
+**Backend Developer** · Onsite & Freelance · 2 years
+*Now focused on Java and Spring Boot*
+
+- Designed and delivered a bilingual (Arabic/English) marketplace for a veterinary company, built for a large user base, with a mobile API and an admin dashboard.
+- Designed REST APIs, relational database schemas, and token-based authentication for web and mobile clients.
+- Reviewed the codebase end to end, identifying bugs, structural issues, and access-control vulnerabilities.
+- Owned deployment and hosting, and explained technical findings to non-technical clients in plain language.
+
+**Technologies:** PHP, Laravel, MySQL
+
+## Working with AI Tools
+
+I use AI coding assistants every day to speed up boilerplate, explore unfamiliar libraries, and review ideas. I treat their output like a pull request from a teammate: I read it, test it, and I own what ships.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-yasser-894427439/) · [muhammad.yaser.dev@gmail.com](mailto:muhammad.yaser.dev@gmail.com)
