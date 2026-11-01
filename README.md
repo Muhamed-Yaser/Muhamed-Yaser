@@ -1,5 +1,5 @@
 <h1 align="center">Muhammad Yasser</h1>
-<h3 align="center">Backend Developer · Java & Spring Boot</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-yasser-894427439/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
